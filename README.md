@@ -22,13 +22,16 @@ Este proyecto requiere Python 3.6 o superior. No es necesario instalar bibliotec
 Sigue estos pasos para ejecutar el script:
 
 1. **Clona el repositorio**: 
-   ```bash
+   ```
+   bash
    git clone https://github.com/AndresQuinto5/SDQ-CAS.git
-   cd SDQ-CAS```
+   cd SDQ-CAS
+   ```
 
 2. Ejecuta el script:
 
-```python sdq_calculator.py
+```
+python sdq_calculator.py
 ```
 
 3. Ingresa la información del participante:
